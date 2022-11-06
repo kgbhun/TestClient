@@ -33,7 +33,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-H7LsNofFZXAPl3\/yytYsh4uJCsTtQoCt1naBTchiu+w=",
+      "hash": "sha256-7fMKqni5e+gP0h\/7Xg\/Fv6ZUkTSpVih8oIjRQHvHHOQ=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -149,7 +149,7 @@
       "url": "_framework\/System.Text.Json.dll"
     },
     {
-      "hash": "sha256-8jlc49SaSaoXuS7WSE3lkSMtCTlZGeYjB3uAmoJ2k60=",
+      "hash": "sha256-H9eVUy2wOMcbC5+Y+jYmh2EsGo8Luhd8HdB5EKgWg+c=",
       "url": "_framework\/WebTestClient.dll"
     },
     {
@@ -157,11 +157,11 @@
       "url": "_framework\/WebTestShared.dll"
     },
     {
-      "hash": "sha256-O\/Y6PAfFir9ym71Px\/\/Oc31n8CaXVhKCnsItk0vCgFg=",
+      "hash": "sha256-TrvOeLyJ2WQpYOJeatJkb9dX38CJ2UbtPTTvkUHLI\/c=",
       "url": "WebTestClient.styles.css"
     },
     {
-      "hash": "sha256-yLdGg8BoQxQ9ZwaVs0\/ZPHbPvWEhna14BOOtuSLRs44=",
+      "hash": "sha256-qIhwRa3OhJgC9iOqjxzE5XAvfCtYtm4h1AbvkGH41mY=",
       "url": "css\/app.css"
     },
     {
@@ -221,11 +221,11 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-q5cNIs3DEoSBBL+a+fuRbOVDZ\/DFAAIUP8eZH8E\/178=",
+      "hash": "sha256-8mYvhfkJO0KpdtMp6k1ZzKWb+KPEAy2eJ2DutpQcU3o=",
       "url": "index.html"
     },
     {
-      "hash": "sha256-GXZL8OraB8SjCDZGhrvPEMBx9430PFns6RENz9sFxBA=",
+      "hash": "sha256-uc3CS6xjiHoOtdWfgNjHq9pJcppbKLdta7KNqH7mV3Q=",
       "url": "manifest.json"
     },
     {
@@ -233,5 +233,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "vqaXYrz9"
+  "version": "NrS78Pe2"
 };
